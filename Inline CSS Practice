@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Inline</title>
+</head>
+
+<body>
+<h1>Style Me in Blue!</h1>
+<styl>
+<html style=”background:blue#0000EE ” ></html>
+
+</body>
+</html>
