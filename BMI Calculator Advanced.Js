@@ -1,3 +1,4 @@
+
 var weight = parseFloat(prompt("What is your weight?")); 
 var height = parseFloat(prompt("What is your height?"));
 
