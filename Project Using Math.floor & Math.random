@@ -1,0 +1,12 @@
+function whosPaying(names) {
+    var arr_length = names.length;
+    var posInArray = Math.floor(Math.random() * arr_length);
+    var randomPerson = names[posInArray];
+    var output = randomPerson + " is going to buy lunch today!";
+    
+    return output;
+}
+
+var names = ["Christial", "Angela", "Pamela", "Josephine", "Petrol"];
+var lunchMessage = whosPaying(names);
+console.log(lunchMessage);
